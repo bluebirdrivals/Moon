@@ -38,7 +38,7 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitch:             bluebirdrivals
+#twitch:             bluebirdrivals
 twitter:            bluebirdrivals
 #facebook:           username
 #github-url:         username
@@ -62,7 +62,7 @@ youtube:           NordicGaming
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-tiktok:             @BlueBirdRivals
+#tiktok:             @BlueBirdRivals
 
 # Gems
 gems:

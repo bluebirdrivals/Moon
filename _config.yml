@@ -1,13 +1,13 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              BlueBird Rivals
+bio:                Oceanic based group running competitions across multiples titles
+description:        
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/BBR Main Logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
+locale:             en_AU
 url:                https://bluebirdrivals.github.io/Moon
 
 # Jekyll
@@ -38,6 +38,7 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
+twitch:             bluebirdrivals
 twitter:            bluebirdrivals
 #facebook:           username
 #github-url:         username
@@ -61,6 +62,7 @@ youtube:           NordicGaming
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
+tiktok:             @BlueBirdRivals
 
 # Gems
 gems:
